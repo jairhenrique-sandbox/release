@@ -8,5 +8,14 @@
   },
   "type": "module",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "news-fragments": "^2.0.15"
+  },
+  "release-it": {
+    "npm": false,
+    "plugins": {
+      "news-fragments": {}
+    }
+  }
 }
