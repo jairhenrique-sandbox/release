@@ -29,6 +29,3 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           body: cat release.txt
-          # note you'll typically need to create a personal access token
-          # with permissions to create releases in the other repo
-          token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
