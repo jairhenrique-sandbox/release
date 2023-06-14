@@ -28,4 +28,4 @@ jobs:
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
-          body: cat release.txt
+          body_path: release.txt
