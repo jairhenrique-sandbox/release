@@ -1,4 +1,15 @@
 
+[//]: # (s-1.0.3)
+
+# [1.0.3] - (2023-06-14)
+
+## Bugfixes
+* Fix release permissions 2.
+* Fix release permissions 2.
+
+[//]: # (e-1.0.3)
+
+
 [//]: # (s-1.0.2)
 
 # [1.0.2] - (2023-06-14)
